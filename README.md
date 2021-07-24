@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SamBlackPy
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and JavaScript
 - 🌱 I’m currently learning Programming
 
 <!---
